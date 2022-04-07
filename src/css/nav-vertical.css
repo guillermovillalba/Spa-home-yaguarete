@@ -1,0 +1,23 @@
+
+.bloque{
+    border-bottom: 1px  solid rgb(206, 186, 186);
+    font-family:Helvetica,Monaco,Georgia,Times,serif;
+
+  
+}
+
+.topnav{
+    margin-top: 5%;
+    
+}
+.colores{
+    color:#04b37c;
+}
+
+.cursor{
+    cursor:pointer;
+}
+.cursor:hover{
+    cursor:pointer;
+    color: black;
+}

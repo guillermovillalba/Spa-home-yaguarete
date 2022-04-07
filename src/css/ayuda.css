@@ -1,0 +1,21 @@
+
+.resaltar{
+    flex-grow: 1;
+    display: flex;
+flex-wrap: wrap;
+justify-content: center;
+padding: 10px;
+}
+.pad{
+    padding: 10px;
+}
+.resaltar:hover{
+    
+    box-shadow: 0px 0px 10px #00000093;
+    cursor:pointer;
+}
+.AyudaP{
+    color: rgb(55, 58, 58);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
