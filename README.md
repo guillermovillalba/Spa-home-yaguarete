@@ -1,5 +1,5 @@
-# Base de WEBPACK
- Este es el proyecto base de Webpack, en el cual se encuentran las configuraciones basicas.
+# Yaguarete
+Monedero Yaguarete
 
  ### Notas:
 
